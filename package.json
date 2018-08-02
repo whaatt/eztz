@@ -1,6 +1,6 @@
 {
   "name": "eztz",
-  "main": "src/main/index.js",
+  "main": "src/main.js",
   "version": "0.0.1",
   "repository": {
     "type": "git",
