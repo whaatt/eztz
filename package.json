@@ -1,4 +1,10 @@
 {
+  "name": "eztz",
+  "main": "src/main/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/whaatt/eztz.git"
+  },
   "dependencies": {
     "bip39": "^2.5.0",
     "bs58check": "^2.1.1",
