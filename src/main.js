@@ -1,4 +1,5 @@
 if (typeof require == "undefined") require = require("buffer/").Buffer;
+const XMLHttpRequest = require("xmlhttprequest").XMLHttpRequest;
 const 
 //CLI below
 defaultProvider = "https://rpc.tezrpc.me/",
